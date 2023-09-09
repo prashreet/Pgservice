@@ -4,7 +4,7 @@
     font-family: 'Poppins', sans-serif;
 }
 #header{
-    background-image: url(photo/hello.jpg);
+    background-image: url(hello.jpg);
     width: 100%;
     min-height: 60vh;
     background-position: center;
