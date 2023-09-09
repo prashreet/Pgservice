@@ -4,7 +4,7 @@
     font-family: 'Poppins', sans-serif;
 }
 #header{
-    background-image: url(photo/hello.jpg);
+    background-image: url(hello.jpg);
     width: 100%;
     min-height: 100vh;
     background-position: center;
@@ -275,7 +275,7 @@ nav .fas{
 
 /*****************call to action********/
 .cta{
-   background-image: url(photo/ABOUT.jpg);
+   background-image: url(ABOUT.jpg);
    width: 80%;
    margin: 100px auto;
    background-position: center;
